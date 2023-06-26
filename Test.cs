@@ -19,6 +19,7 @@ namespace InterviewQsns
         {
             Console.WriteLine(this.name+this.rollno);
             Console.WriteLine("bhaskar");
+            Console.WriteLine("bhaskar");
         }
 
     }
