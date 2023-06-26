@@ -18,8 +18,7 @@ namespace InterviewQsns
         public void method1()
         {
             Console.WriteLine(this.name+this.rollno);
-            Console.WriteLine("bhaskar");
-            Console.WriteLine("bhaskar");
+          
         }
 
     }
